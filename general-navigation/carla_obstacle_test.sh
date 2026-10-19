@@ -1,5 +1,5 @@
 python -u -X faulthandler -m general_navigation.carla_obstacle_test \
-  --checkpoint "/home/t254huan/nomad/nomad.pth" \
+  --checkpoint "nomad.pth" \
   --headless \
   --town Town10HD_Opt \
   --reload-world \

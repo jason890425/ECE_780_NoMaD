@@ -10,6 +10,9 @@ bash carla_obstacle_test.sh
 ```
 Where,
 ```bash
+--checkpoint 
+# Absolute path of model weight *.pth
+
 --goal-distance 20
 # Distance along the road from the starting point to the goal, in meters.
 
