@@ -1,0 +1,17 @@
+torch>=2.2.2
+torchvision>=0.17.2
+numpy>=1.24.4
+setuptools>=65.5.0
+einops>=0.8.0
+opencv-python>=4.9.0.80
+efficientnet_pytorch==0.7.1
+vit-pytorch==1.6.9
+pygame==2.5.2
+platformdirs
+gdown
+diffusers
+matplotlib
+wandb
+pydantic
+simple-pid==1.0.1
+scipy==1.10.0

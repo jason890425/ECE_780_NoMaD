@@ -1,0 +1,11 @@
+python -u -X faulthandler -m general_navigation.carla_obstacle_test \
+  --checkpoint "/home/t254huan/nomad/nomad.pth" \
+  --headless \
+  --town Town10HD_Opt \
+  --reload-world \
+  --spawn-index 6 \
+  --goal-distance 20 \
+  --goal-radius 2 \
+  --obstacle-before-goal 10 \
+  --rpc-timeout 120 \
+  --output "/home/t254huan/carla_test_2"
