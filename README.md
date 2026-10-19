@@ -3,7 +3,7 @@ First, running CARLA simulator
 cd  ~/nomad/carla
 ./CarlaUE4.sh -RenderOffScreen
 ```
-Open another terminal.
+Open another terminal
 ```bash
 cd  ~/nomad/general-navigation
 bash carla_obstacle_test.sh
